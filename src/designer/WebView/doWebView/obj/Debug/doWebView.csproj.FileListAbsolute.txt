@@ -1,0 +1,6 @@
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\bin\Debug\doUIViewDesign.WebView.dll
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\bin\Debug\doUIViewDesign.WebView.pdb
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\bin\Debug\doControlLib.dll
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\obj\Debug\doWebView.csprojResolveAssemblyReference.cache
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\obj\Debug\doUIViewDesign.WebView.dll
+D:\MyWork\Designer\windows7\do-workstudio\win7src\UIControls\WebView\doWebView\obj\Debug\doUIViewDesign.WebView.pdb
