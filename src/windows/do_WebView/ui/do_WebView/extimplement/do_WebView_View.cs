@@ -61,12 +61,12 @@ namespace do_WebView.extimplement
 
         public void OnWebViewLoaded()
         {
-            doInvokeResult _invokeResult = this.model.CurrentPage.ScriptEngine.CreateInvokeResult(this.model.UniqueKey);
+            doInvokeResult _invokeResult = new doInvokeResult(this.model.UniqueKey);
             this.model.EventCenter.FireEvent("onloaded", _invokeResult);
         }
         public void OnWebViewStart()
         {
-            doInvokeResult _invokeResult = this.model.CurrentPage.ScriptEngine.CreateInvokeResult(this.model.UniqueKey);
+            doInvokeResult _invokeResult = new doInvokeResult(this.model.UniqueKey);
             this.model.EventCenter.FireEvent("onstart", _invokeResult);
         }
         async void web_NavigationFailed(object sender, WebViewNavigationFailedEventArgs e)
